@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": 5001,
+            "name": "Pixel 5XL",
+            "price": 1299,
+            "desc": "8Gb / 128Gb",
+            "imageurl": "assets/images/pixel.png",
+            "color": "white"
+        },
+        {
+            "id": 5002,
+            "name": "iPhone 12",
+            "price": 999,
+            "desc": "8Gb / 128Gb",
+            "imageurl": "assets/images/ip12.png",
+            "color": "white"
+        },
+        {
+            "id": 5003,
+            "name": "MacBook pro",
+            "price": 2099,
+            "desc": "M1 chip 12Gb RAM",
+            "imageurl": "assets/images/mac.png",
+            "color": "white"
+        },
+        {
+            "id": 5004,
+            "name": "AirPods pro",
+            "price": 600,
+            "desc": "Wireless headphones",
+            "imageurl": "assets/images/air.png",
+            "color": "white"
+        },
+        {
+            "id": 5005,
+            "name": "Mi 11 pro",
+            "price": 800,
+            "desc": "6Gb / 64Gb",
+            "imageurl": "assets/images/mi11.png",
+            "color": "white"
+        },
+        {
+            "id": 5006,
+            "name": "Samsung S21 Ultra",
+            "price": 600,
+            "desc": "8Gb / 512Gb",
+            "imageurl": "assets/images/sas21.png",
+            "color": "white"
+        },
+        {
+            "id": 5007,
+            "name": "Playstation 5",
+            "price": 1499,
+            "desc": "Gaming Console",
+            "imageurl": "assets/images/ps5.png",
+            "color": "white"
+        },
+        {
+            "id": 5008,
+            "name": "MSI Modern 14",
+            "price": 1599,
+            "desc": "8Gb / inter i7",
+            "imageurl": "assets/images/msim14.png",
+            "color": "white"
+        }
+    ]
+}
